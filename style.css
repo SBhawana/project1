@@ -75,7 +75,7 @@ section.home {
     right: 0;
     width: 60px;
     height: 60px;
-    background: var(--primary-color) url('menu.png');
+    background: var(--primary-color) url('/menu.png');
     background-repeat: no-repeat;
     color:#fff;
     background-position: center;
